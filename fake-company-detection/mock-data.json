@@ -1,0 +1,26 @@
+[
+    {
+        "gstin": "33AAACS6149G1Z5",
+        "name": "Zoho Corporation Private Limited",
+        "tradeName": "Zoho",
+        "address": "No. 5/535, Old Mahabalipuram Road, Okkiyam Thoraipakkam, Chennai, Tamil Nadu - 600096",
+        "status": "Active",
+        "type": "Private Limited"
+    },
+    {
+        "gstin": "33AAACB2404R1ZI",
+        "name": "TVS Srichakrabharat Private Limited",
+        "tradeName": "TVS Srichakra",
+        "address": "No. 5, Old Mahabalipuram Road, Madipakkam, Chennai, Tamil Nadu - 600091",
+        "status": "Active",
+        "type": "Private Limited"
+    },
+    {
+        "gstin": "33AAAAB1275B1ZQ",
+        "name": "Ashok Leyland Limited",
+        "tradeName": "Ashok Leyland",
+        "address": "No. 1, Guindy, Chennai, Tamil Nadu - 600032",
+        "status": "Active",
+        "type": "Public Limited"
+    }
+]
